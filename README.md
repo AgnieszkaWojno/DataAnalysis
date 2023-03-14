@@ -14,6 +14,7 @@ Dashboards in Power BI or Tableau:
    - Sales (Power BI): https://app.powerbi.com/groups/me/reports/d1b49725-6e77-49bf-99cf-9424450ff0ae/ReportSection567232e594900660c637
 
    - Wyniki Egzaminu Maturalnego (Power BI) (2016-2022):  https://app.powerbi.com/groups/me/reports/af99a4e9-1f03-4617-8d5a-76b9bd6658a4/ReportSectiona13e6a3f36aea43345a5
+   - E-commerce: https://app.powerbi.com/groups/me/reports/cd22542c-4ced-4b0d-92ef-12c88276c623/ReportSection02a27c96ba73a3e0e1d4
 
    - Dashboard in Tableau: https://public.tableau.com/app/profile/agnieszka4787/viz/SalesDistributionDashboard_16725268226290/Dashboard?publish=yes
 
