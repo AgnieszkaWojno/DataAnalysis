@@ -17,5 +17,6 @@ Dashboards in Power BI or Tableau:
    - E-commerce: https://app.powerbi.com/groups/me/reports/cd22542c-4ced-4b0d-92ef-12c88276c623/ReportSection02a27c96ba73a3e0e1d4
    - World Happiness Report :  https://app.powerbi.com/groups/me/reports/e9150758-8146-4053-a21d-bbe016c5e24f/ReportSectionbdf072f70f72d17cdd0b
    - Dashboard in Tableau: https://public.tableau.com/app/profile/agnieszka4787/viz/SalesDistributionDashboard_16725268226290/Dashboard?publish=yes
+   - Excel E-commerce case (Data Analitics source) : 
 
 
